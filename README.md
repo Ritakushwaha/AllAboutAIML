@@ -129,3 +129,6 @@ This course provides an introduction to the principles, algorithms, and applicat
     
 # Conclusion:
 This course aims to equip students with a solid foundation in Artificial Intelligence and Machine Learning, enabling them to pursue further studies or apply their knowledge in various domains. By combining theoretical knowledge with hands-on experience, students will be prepared to tackle real-world challenges in the field of AI and ML.
+
+Learning OpenCV:
+https://courses.opencv.org/courses/course-v1:OpenCV+Bootcamp+CV0/course/
