@@ -52,3 +52,15 @@
   <tr><td>47.</td><td>'</td><td>Right close single quote</td></tr>
   <tr><td>48.</td><td>"</td><td>Right close double quote</td></tr>
 </table>
+
+## Text Preprocessing 
+
+```
+python -m venv myenv
+```
+```
+source myenv/bin/activate
+```
+```
+pip install -r requirements.txt
+```
